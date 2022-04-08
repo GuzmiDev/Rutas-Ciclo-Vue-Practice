@@ -1,5 +1,5 @@
 <template>
-  <AboutPage />
+  <router-view />
 </template>
 
 <script>
